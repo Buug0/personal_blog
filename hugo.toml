@@ -1,4 +1,14 @@
 baseURL = 'https://personal-blog-pny4oujee-buug0s-projects.vercel.app/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Buug'
 theme = 'ananke'
+featured_image = "/data/images/11.jpg"
+[[menu.main]]
+  name = "长文"
+  url = "/posts/"
+  weight = 1
+
+[[menu.main]]
+  name = "短篇"
+  url = "/memos/"
+  weight = 2
