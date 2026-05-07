@@ -2,7 +2,9 @@ baseURL = 'https://personal-blog-pny4oujee-buug0s-projects.vercel.app/'
 languageCode = 'en-us'
 title = 'Buug'
 theme = 'ananke'
-featured_image = "/data/images/11.jpg"
+[params]
+  featured_image = "/images/11.png"
+  background_color_class = "bg-black"
 [[menu.main]]
   name = "长文"
   url = "/posts/"
