@@ -1,4 +1,4 @@
-baseURL = 'https://personal-blog-pny4oujee-buug0s-projects.vercel.app/'
+baseURL = '/'
 languageCode = 'en-us'
 title = 'Buug'
 theme = 'ananke'
