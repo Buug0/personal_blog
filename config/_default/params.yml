@@ -32,10 +32,10 @@ description: "须知少时凌云志，曾许人间第一流"
 # subtitle: "少女祈祷中..."
 subtitle:
   typing:
-    enable: false
+    enable: true
     strings:
-      # - Sentence 1
-      # - Sentence 2
+       - 人生如逆旅，我亦是行人
+       - 须知少时凌云志，曾许人间第一流
       # - Sentence 3
       # - Sentence 4
     typeSpeed: 100              # 打字速度（毫秒/字符） 
