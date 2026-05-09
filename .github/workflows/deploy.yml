@@ -32,7 +32,7 @@ jobs:
 
       - name: Build
         # 注意：这里强制注入你的 GitHub URL，防止样式错乱
-        run: hugo --minify --baseURL "https://buug0.github.io/buug_blog.github.io/"
+        run: hugo --minify --baseURL "https://Buug0.github.io/buug_blog.github.io/"
 
       - name: Upload artifact
         # 这是触发 pages-build-deployment 的关键动作
